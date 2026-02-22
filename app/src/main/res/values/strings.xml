@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Z_SEC</string>
+    <string name="vault_locked">Vault Locked</string>
+    <string name="enter_password">Enter your master password to unlock.</string>
+    <string name="btn_unlock">UNLOCK</string>
+    <string name="btn_create">CREATE VAULT</string>
+</resources>

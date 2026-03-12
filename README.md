@@ -133,20 +133,6 @@ public boolean isVaultSafe() {
 
 ---
 
-## 📸 Screenshots
-
-| Vault Home | File Manager | Security Settings |
-|:---:|:---:|:---:|
-| `[Screenshot 1]` | `[Screenshot 2]` | `[Screenshot 3]` |
-
-| Biometric Lock | Decoy Vault | Breach Alert |
-|:---:|:---:|:---:|
-| `[Screenshot 4]` | `[Screenshot 5]` | `[Screenshot 6]` |
-
-> *Replace placeholders with actual screenshots before publishing*
-
----
-
 ## 🗂️ Project Structure
 
 ```

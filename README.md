@@ -61,7 +61,7 @@ Permissions      :  Storage, Biometric (optional)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourname/Z_SEC.git
+git clone https://github.com/IQ-HARRY7/Z_SEC.git
 ```
 
 **2. Open in Android Studio**
